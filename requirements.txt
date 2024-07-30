@@ -1,0 +1,4 @@
+cvzone == 1.4.1
+pynput == 1.7.6
+mediapipe == 0.8.7
+protobuf == 3.20
